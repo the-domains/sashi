@@ -1,7 +1,7 @@
 name: Sashi
 favicon: null
-layout_spectrum: 0.9630731088109314
-typography_spectrum: 0.42025257949717343
+layout_spectrum: 0.65124
+typography_spectrum: 0.72348
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.6875
   lightness: 0.12436237162910402
   saturation: 0.2108333536889404
-  rhythmicContrast: 0.7770816108677536
+  rhythmicContrast: 0.5
 purpose: []
