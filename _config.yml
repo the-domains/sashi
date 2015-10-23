@@ -1,0 +1,23 @@
+name: Sashi
+favicon: null
+layout_spectrum: 0.9630731088109314
+typography_spectrum: 0.42025257949717343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2697719398420304
+  lightness: 0.12436237162910402
+  saturation: 0.2108333536889404
+  rhythmicContrast: 0.7770816108677536
+purpose: []
